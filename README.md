@@ -7,3 +7,5 @@
 <!-- 🤔 I’m looking for help with ... -->
 - 📫 How to reach me: girisangar2005@gmail.com
 - 😄 Pronouns: He/Him
+
+![hawk200545's Stats](https://github-readme-stats.vercel.app/api?username=hawk200545&theme=nord&show_icons=true&hide_border=false&count_private=true)
