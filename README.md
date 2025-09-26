@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on Seccond Brain
+- 🔭 I’m currently working on Second Brain
 - 🌱 I’m currently learning Next.js
 <!-- 👯 I’m looking to collaborate on ... -->
 <!-- 🤔 I’m looking for help with ... -->
