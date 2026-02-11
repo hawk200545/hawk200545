@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### [Portfolio](https://girisangar.tech)
-- 🔭 I’m currently working on Second Brain
-- 🌱 I’m currently learning Go
+- 🔭 I’m currently working on Second Brain (Project)
+- 🌱 I’m currently learning Spring Boot
 - 📫 How to reach me: girisangar2005@gmail.com
 - 😄 Pronouns: He/Him
   
