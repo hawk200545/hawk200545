@@ -1,16 +1,61 @@
-# 💫 About Me:
-🔭 I’m currently working on A Scalable Cloud Native Platform for ROS Education<br>🌱 I’m currently learning Kubernetes<br>📫 How to reach me: girisangar2005@gmail.com<br>😄 Pronouns: He/Him
+## Hey, I'm Giri 👋
 
+Building a scalable, cloud-native platform for ROS education. Currently nose-deep in Kubernetes.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/girisangar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:girisangar2005@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-girisangar.tech-%23121011.svg)](https://girisangar.tech)
+📫 girisangar2005@gmail.com &nbsp;·&nbsp; He/Him
 
-# 💻 Tech Stack:
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hawk200545&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hawk200545&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hawk200545&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://shieldcn.dev/badge/LinkedIn.svg?logo=linkedin&variant=outline)](https://linkedin.com/in/girisangar)
+[![Email](https://shieldcn.dev/badge/Email.svg?logo=gmail&variant=outline)](mailto:girisangar2005@gmail.com)
+[![Portfolio](https://shieldcn.dev/badge/Portfolio.svg?logo=vercel&variant=outline)](https://girisangar.tech)
 
----
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=hawk200545&countColor=%23263759)](https://visitorbadge.io/status?path=hawk200545)
+### Tech I reach for
+
+**Languages** &nbsp;
+![Go](https://shieldcn.dev/badge/Go.svg?logo=go&color=00ADD8)
+![TypeScript](https://shieldcn.dev/badge/TypeScript.svg?logo=typescript&color=3178C6)
+![JavaScript](https://shieldcn.dev/badge/JavaScript.svg?logo=javascript&color=F7DF1E)
+![Python](https://shieldcn.dev/badge/Python.svg?logo=python&color=3670A0)
+![Java](https://shieldcn.dev/badge/Java.svg?logo=openjdk&color=ED8B00)
+![C++](https://shieldcn.dev/badge/C++.svg?logo=cplusplus&color=00599C)
+![C](https://shieldcn.dev/badge/C.svg?logo=c&color=00599C)
+
+**Backend & APIs** &nbsp;
+![Node.js](https://shieldcn.dev/badge/Node.js.svg?logo=nodedotjs&color=5FA04E)
+![NestJS](https://shieldcn.dev/badge/NestJS.svg?logo=nestjs&color=E0234E)
+![Express](https://shieldcn.dev/badge/Express.svg?logo=express&color=000000)
+![Spring](https://shieldcn.dev/badge/Spring.svg?logo=spring&color=6DB33F)
+![Bun](https://shieldcn.dev/badge/Bun.svg?logo=bun&color=000000)
+
+**Frontend** &nbsp;
+![Next.js](https://shieldcn.dev/badge/Next.js.svg?logo=nextdotjs&color=000000)
+![Angular](https://shieldcn.dev/badge/Angular.svg?logo=angular&color=DD0031)
+![Tailwind](https://shieldcn.dev/badge/Tailwind.svg?logo=tailwindcss&color=38B2AC)
+![Vite](https://shieldcn.dev/badge/Vite.svg?logo=vite&color=646CFF)
+
+**Data** &nbsp;
+![PostgreSQL](https://shieldcn.dev/badge/PostgreSQL.svg?logo=postgresql&color=4169E1)
+![MongoDB](https://shieldcn.dev/badge/MongoDB.svg?logo=mongodb&color=47A248)
+![MySQL](https://shieldcn.dev/badge/MySQL.svg?logo=mysql&color=4479A1)
+![Redis](https://shieldcn.dev/badge/Redis.svg?logo=redis&color=FF4438)
+![SQLite](https://shieldcn.dev/badge/SQLite.svg?logo=sqlite&color=003B57)
+![Prisma](https://shieldcn.dev/badge/Prisma.svg?logo=prisma&color=2D3748)
+
+**Robotics & Vision** &nbsp;
+![ROS](https://shieldcn.dev/badge/ROS.svg?logo=ros&color=22314E)
+![OpenCV](https://shieldcn.dev/badge/OpenCV.svg?logo=opencv&color=5C3EE8)
+
+**DevOps & Infra** &nbsp;
+![Docker](https://shieldcn.dev/badge/Docker.svg?logo=docker&color=2496ED)
+![Kubernetes](https://shieldcn.dev/badge/Kubernetes.svg?logo=kubernetes&color=326CE5)
+![AWS](https://shieldcn.dev/badge/AWS.svg?logo=amazonwebservices&color=FF9900)
+![Nginx](https://shieldcn.dev/badge/Nginx.svg?logo=nginx&color=009639)
+![GitHub Actions](https://shieldcn.dev/badge/GitHub%20Actions.svg?logo=githubactions&color=2088FF)
+
+### A bit of GitHub flair
+
+[![Followers](https://shieldcn.dev/badge/Follow%20hawk200545.svg?logo=github&variant=outline)](https://github.com/hawk200545)
+
+### A few numbers
+
+![Stats](https://github-readme-stats.vercel.app/api?username=hawk200545&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawk200545&theme=catppuccin_mocha&hide_border=true&layout=compact)
