@@ -50,12 +50,3 @@ Building a scalable, cloud-native platform for ROS education. Currently nose-dee
 ![AWS](https://shieldcn.dev/badge/AWS.svg?logo=amazonwebservices&color=FF9900)
 ![Nginx](https://shieldcn.dev/badge/Nginx.svg?logo=nginx&color=009639)
 ![GitHub Actions](https://shieldcn.dev/badge/GitHub%20Actions.svg?logo=githubactions&color=2088FF)
-
-### A bit of GitHub flair
-
-[![Followers](https://shieldcn.dev/badge/Follow%20hawk200545.svg?logo=github&variant=outline)](https://github.com/hawk200545)
-
-### A few numbers
-
-![Stats](https://github-readme-stats.vercel.app/api?username=hawk200545&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hawk200545&theme=catppuccin_mocha&hide_border=true&layout=compact)
